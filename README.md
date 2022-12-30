@@ -54,10 +54,6 @@ The programs takes 2 inputs from the user
    1. City name
    2. Interested place in the City
    
-
-![image](https://media.github.iu.edu/user/20972/files/df1ac6e6-6598-42fa-8c0f-6f66d31e9460)
-
-
 The program runs and generates a final_schedule.csv file with list of places and time schedule
 
 ![image](https://media.github.iu.edu/user/20972/files/0bcc5d87-36d5-4e9c-81d6-8dd780a5b467)
