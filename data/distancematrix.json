@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "Park Blvd & Zoo Pl, San Diego, CA 92104, USA" ],
+   "origin_addresses" : [ "Park Blvd & Zoo Pl, San Diego, CA 92104, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

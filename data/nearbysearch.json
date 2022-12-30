@@ -1,0 +1,638 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7492378,
+               "lng" : -117.1602169
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75049193029149,
+                  "lng" : -117.1589852697085
+               },
+               "southwest" : {
+                  "lat" : 32.74779396970849,
+                  "lng" : -117.1616832302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Village Hillcrest",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108849327385257754632\"\u003everenice Gudino\u003c/a\u003e"
+               ],
+               "photo_reference" : "AW30NDyBXQdJiRKbd94EXYVkyutBb4esjVG7FzemlVIpWAh7er1DfmWWguL70SdmiXcDAAb1OhpsuEp4MMAMIzMQdCSlTBxDfq2l2FTGJwKihmVwD-05iYYrl-3PP4lEwos3xBGsUok8gfXeb_h2hJqEJ-eS_NpJUVNjzTD64HxqBzp92GTl",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJ2Vb0Z9pU2YARij7i4I-e9u8",
+         "plus_code" : {
+            "compound_code" : "PRXQ+MW San Diego, CA, USA",
+            "global_code" : "8544PRXQ+MW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ2Vb0Z9pU2YARij7i4I-e9u8",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 392,
+         "vicinity" : "3955 Fifth Avenue, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7487792,
+               "lng" : -117.1588453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7500253802915,
+                  "lng" : -117.1575184697085
+               },
+               "southwest" : {
+                  "lat" : 32.7473274197085,
+                  "lng" : -117.1602164302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hillcrest Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117243805913316274273\"\u003eBrett Wallis\u003c/a\u003e"
+               ],
+               "photo_reference" : "AW30NDwpACH3pE3tftsJ4nXshkXM2RVXi1PkAweOBZY2reGyBnByaDWgSbUpeU3JH8Hki6GawwCq-EVzXDWkv6XTbWeYlDUX9mD1CQFb-Rn3oZbV5wXJcN4M8pOvQCUhdr4k9py5MHj1agCLhKg1VokLJ-ZKRfjRsS_C2TPKJZlUYiCAmoIY",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8Qmd_dpU2YAR3G05JdbG57A",
+         "plus_code" : {
+            "compound_code" : "PRXR+GF San Diego, CA, USA",
+            "global_code" : "8544PRXR+GF"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ8Qmd_dpU2YAR3G05JdbG57A",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 264,
+         "vicinity" : "620 University Avenue, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.749322,
+               "lng" : -117.1543118
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75117165,
+                  "lng" : -117.1525632
+               },
+               "southwest" : {
+                  "lat" : 32.74759785000001,
+                  "lng" : -117.1561624
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Hub Hillcrest Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 680,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108743709947475145931\"\u003eThe Hub Hillcrest Market\u003c/a\u003e"
+               ],
+               "photo_reference" : "AW30NDz66isdD5THbCeZG3ukvLbIXn5FEDxNZxUMaT4_3vrQsRot8LSwNg5mTSHDOxAr97TfH_w3bhe_UdTzrbMXVs2R3axmSiKeTOREMhWZ3My6EqVHeR_zCyMkg150P7hXgk102TwBrLTFjwgq_qA7bA87Wk_N54_NUjE5KuZA5Xg2UJF_",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJkc4z7dxU2YARcXok7vRWAa8",
+         "plus_code" : {
+            "compound_code" : "PRXW+P7 San Diego, CA, USA",
+            "global_code" : "8544PRXW+P7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJkc4z7dxU2YARcXok7vRWAa8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shopping_mall",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2235,
+         "vicinity" : "940-1092 University Avenue, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7154042,
+               "lng" : -117.1572061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.71675313029149,
+                  "lng" : -117.1558499697085
+               },
+               "southwest" : {
+                  "lat" : 32.7140551697085,
+                  "lng" : -117.1585479302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Proactiv Kiosk",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109855140964196108851\"\u003eProactiv Kiosk\u003c/a\u003e"
+               ],
+               "photo_reference" : "AW30NDyGOOfAx3tb3m5eDe3fZbC37XOcKQTE95TRQfcfdswtdsa7P_6irBsVbarvrBYlAPVnKpTZaung3D-LtY-MJ_HB9cradNdHLSD2aUF9etiKTj1MnNOjTPB6AJ6h3C3cL1ypOcz_7hiYO1oxAsGGfk5ugWSoRSY8k87eJv0X6pT29c5O",
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJQwGLoVhT2YAROyGDUxrHKQ0",
+         "plus_code" : {
+            "compound_code" : "PR8V+54 San Diego, CA, USA",
+            "global_code" : "8544PR8V+54"
+         },
+         "reference" : "ChIJQwGLoVhT2YAROyGDUxrHKQ0",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "2260 Callagan Hwy Building 3187B Naval Base, San Diego"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7279499,
+               "lng" : -117.1708535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7292770802915,
+                  "lng" : -117.1696028197085
+               },
+               "southwest" : {
+                  "lat" : 32.7265791197085,
+                  "lng" : -117.1723007802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Old Town Enchanted Woods",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ4zebd7NU2YARQgUTwgUWG7o",
+         "plus_code" : {
+            "compound_code" : "PRHH+5M San Diego, CA, USA",
+            "global_code" : "8544PRHH+5M"
+         },
+         "reference" : "ChIJ4zebd7NU2YARQgUTwgUWG7o",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "2251 Kettner Boulevard, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7305305,
+               "lng" : -117.1618734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.73178083029149,
+                  "lng" : -117.1605249197085
+               },
+               "southwest" : {
+                  "lat" : 32.72908286970849,
+                  "lng" : -117.1632228802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Perrt.t420 Glass Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102169122047766673228\"\u003eLando Harry\u003c/a\u003e"
+               ],
+               "photo_reference" : "AW30NDy1X-oEtnw7w7m9PD5Rq8p0r2cU9VQ_Gd1vzIGM5KpSm9hseNC2-RTCnHQrSILUltDHFbRhqeSpjPW6lHUeS0rSMGLoDieFebRt3zMgK6txBa7JlZ0SAidB9ujYJQ6MHKKAdIsjUNiF7eBRkdYYHeOfKz8rExXsyQMaIOi-3fO1o5AX",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJke1beSFV2YARan1UtjkqCtI",
+         "plus_code" : {
+            "compound_code" : "PRJQ+67 San Diego, CA, USA",
+            "global_code" : "8544PRJQ+67"
+         },
+         "rating" : 5,
+         "reference" : "ChIJke1beSFV2YARan1UtjkqCtI",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "304 Kalmia Street, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7477081,
+               "lng" : -117.1516825
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7489343802915,
+                  "lng" : -117.1503329197085
+               },
+               "southwest" : {
+                  "lat" : 32.7462364197085,
+                  "lng" : -117.1530308802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Positive Phee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113189796422605016076\"\u003ePositive Phee\u003c/a\u003e"
+               ],
+               "photo_reference" : "AW30NDznpw77DjQr-BU1B-Ra1-EKbOU1Eyn9fXPH6WmDTA1GxYBsY_tuKMfBHVNj7uDSbzSLOmYMjBt9VbQ3cbhWvGLpMXkEqcnkaE1skuLIq14nlUH3NMcvkF-TldMietOWfn1qZJxyCDqr5eY-gO5xwKyfMSJ8n7N6n3w0exTWLvI68DJO",
+               "width" : 1066
+            }
+         ],
+         "place_id" : "ChIJ8fRNfYJV2YAR70Gay03i9w0",
+         "plus_code" : {
+            "compound_code" : "PRXX+38 San Diego, CA, USA",
+            "global_code" : "8544PRXX+38"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ8fRNfYJV2YAR70Gay03i9w0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shopping_mall",
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 53,
+         "vicinity" : "1280 Essex Street, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7472219,
+               "lng" : -117.1613748
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7485062302915,
+                  "lng" : -117.1599759697085
+               },
+               "southwest" : {
+                  "lat" : 32.7458082697085,
+                  "lng" : -117.1626739302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Robinson Plaza",
+         "photos" : [
+            {
+               "height" : 2210,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107721404123505875377\"\u003eTrap Speed 1320\u003c/a\u003e"
+               ],
+               "photo_reference" : "AW30NDzr-A8YV7wXBwGEI6tFJim1rgJHrLIobly2uIz-FcJf9ZC6E3-cL5NKs8n_RaaWzNs1cXUqTRRRLiIPGTUjDpFKye6ScCywd22fbIkfX6cksyyNVhq-9yqGlFoRryZpHPI2K3kpl8Ht6_2I4Fvj92pX97puZBRws3AT-ng4ThuwyOMA",
+               "width" : 3964
+            }
+         ],
+         "place_id" : "ChIJM5ILD11V2YAR3nLOv9Dk9HM",
+         "plus_code" : {
+            "compound_code" : "PRWQ+VF San Diego, CA, USA",
+            "global_code" : "8544PRWQ+VF"
+         },
+         "reference" : "ChIJM5ILD11V2YAR3nLOv9Dk9HM",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "420 Robinson Avenue, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7491239,
+               "lng" : -117.1619621
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7504660302915,
+                  "lng" : -117.1604464197085
+               },
+               "southwest" : {
+                  "lat" : 32.7477680697085,
+                  "lng" : -117.1631443802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Plaza On Fourth",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117658098648401166119\"\u003eTocholon Ramirez\u003c/a\u003e"
+               ],
+               "photo_reference" : "AW30NDyuaqpe63GZuAv3EE58CCanEJAAmcpU2pdQlBlZsEq5smoHjHjAZGrOqWVR6g5DDHwR-mxhBVNwgzPWpzZNDXHkHVYgrPbYsWbH4Z3XVRZ0FlBMsgi68GZiQjrQwtZFIMxlAGaIeAGi_p8M5Jr8Xxi3oyYgESA7e8SWI3samaqn-vJh",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_5BweNpU2YARIQdtNcez2C4",
+         "plus_code" : {
+            "compound_code" : "PRXQ+J6 San Diego, CA, USA",
+            "global_code" : "8544PRXQ+J6"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ_5BweNpU2YARIQdtNcez2C4",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 62,
+         "vicinity" : "3940 Fourth Avenue, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7492509,
+               "lng" : -117.1618536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7506057302915,
+                  "lng" : -117.1603925697085
+               },
+               "southwest" : {
+                  "lat" : 32.7479077697085,
+                  "lng" : -117.1630905302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The 50's on Fourth",
+         "place_id" : "ChIJ8-tAndBU2YARZo5fMKTF_ps",
+         "plus_code" : {
+            "compound_code" : "PRXQ+P7 San Diego, CA, USA",
+            "global_code" : "8544PRXQ+P7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ8-tAndBU2YARZo5fMKTF_ps",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "3952 Fourth Avenue, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7293403,
+               "lng" : -117.1707873
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7306927802915,
+                  "lng" : -117.1694265697085
+               },
+               "southwest" : {
+                  "lat" : 32.7279948197085,
+                  "lng" : -117.1721245302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Chopra Book Depot",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJpYf3irRU2YARxZPARr6kBro",
+         "plus_code" : {
+            "compound_code" : "PRHH+PM San Diego, CA, USA",
+            "global_code" : "8544PRHH+PM"
+         },
+         "reference" : "ChIJpYf3irRU2YARxZPARr6kBro",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "India Street, San Diego"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7423385,
+               "lng" : -117.1307593
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.74368543029149,
+                  "lng" : -117.1295293697085
+               },
+               "southwest" : {
+                  "lat" : 32.7409874697085,
+                  "lng" : -117.1322273302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Neniche’s Bazaar",
+         "permanently_closed" : true,
+         "place_id" : "ChIJkcAdAI5V2YAR_AeCrgkmGpw",
+         "plus_code" : {
+            "compound_code" : "PVR9+WM San Diego, CA, USA",
+            "global_code" : "8544PVR9+WM"
+         },
+         "reference" : "ChIJkcAdAI5V2YAR_AeCrgkmGpw",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "3505 29th Street, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7234431,
+               "lng" : -117.1677217
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7247968802915,
+                  "lng" : -117.1662528197085
+               },
+               "southwest" : {
+                  "lat" : 32.72209891970851,
+                  "lng" : -117.1689507802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Laz Parking Piazza della Famiglia Garage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJl-Ei-fRV2YARkumEQW9z9gA",
+         "plus_code" : {
+            "compound_code" : "PRFJ+9W San Diego, CA, USA",
+            "global_code" : "8544PRFJ+9W"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJl-Ei-fRV2YARkumEQW9z9gA",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "1730 Columbia Street, San Diego"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7497046,
+               "lng" : -117.1680401
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7510893302915,
+                  "lng" : -117.1668532697085
+               },
+               "southwest" : {
+                  "lat" : 32.7483913697085,
+                  "lng" : -117.1695512302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Mission Hills Plaza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104922139408370161518\"\u003eMichael\u003c/a\u003e"
+               ],
+               "photo_reference" : "AW30NDyzWxZAdtYza3cfeOPbPXz-2RTyiUScxJOoi9DZq78DAmrv4gQx10-7heooG090FX8TbwEzH25t9MkN9stY6xibtZ_9RkoiqiAjaL0HR2WJr-CQeOouGqMHW482T4Nm1a4UHdU9cgxmXznwwFKA4C34_lMa07kbVW-hclZDkqrD0rJM",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ0SwS-o1V2YARof-23xpU5lU",
+         "plus_code" : {
+            "compound_code" : "PRXJ+VQ San Diego, CA, USA",
+            "global_code" : "8544PRXJ+VQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ0SwS-o1V2YARof-23xpU5lU",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 262,
+         "vicinity" : "515 West Washington Street, San Diego"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7162325,
+               "lng" : -117.1598743
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7176169802915,
+                  "lng" : -117.1586839197085
+               },
+               "southwest" : {
+                  "lat" : 32.7149190197085,
+                  "lng" : -117.1613818802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Autozone",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ939On6ZV2YARL_NAYWI1V4A",
+         "plus_code" : {
+            "compound_code" : "PR8R+F3 San Diego, CA, USA",
+            "global_code" : "8544PR8R+F3"
+         },
+         "reference" : "ChIJ939On6ZV2YARL_NAYWI1V4A",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "1047 Fifth Avenue, San Diego"
+      }
+   ],
+   "status" : "OK"
+}

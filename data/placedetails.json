@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3955",
+            "short_name" : "3955",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Fifth Avenue",
+            "short_name" : "Fifth Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hillcrest",
+            "short_name" : "Hillcrest",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "San Diego",
+            "short_name" : "San Diego",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "San Diego County",
+            "short_name" : "San Diego County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "California",
+            "short_name" : "CA",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "92103",
+            "short_name" : "92103",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "3195",
+            "short_name" : "3195",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e3955 Fifth Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSan Diego\u003c/span\u003e, \u003cspan class=\"region\"\u003eCA\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e92103-3195\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "current_opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "date" : "2022-12-17",
+                  "day" : 6,
+                  "time" : "2359",
+                  "truncated" : true
+               },
+               "open" : {
+                  "date" : "2022-12-11",
+                  "day" : 0,
+                  "time" : "0000",
+                  "truncated" : true
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "editorial_summary" : {
+         "language" : "en",
+         "overview" : "Contemporary, mixed-use complex with shops, eateries, a cinema & office space in 5 buildings."
+      },
+      "formatted_address" : "3955 Fifth Ave, San Diego, CA 92103, USA",
+      "formatted_phone_number" : "(619) 296-4051",
+      "geometry" : {
+         "location" : {
+            "lat" : 32.7492378,
+            "lng" : -117.1602169
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 32.75049193029149,
+               "lng" : -117.1589852697085
+            },
+            "southwest" : {
+               "lat" : 32.74779396970849,
+               "lng" : -117.1616832302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number" : "+1 619-296-4051",
+      "name" : "Village Hillcrest",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 4048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108849327385257754632\"\u003everenice Gudino\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDxu9d7Gq_h_ggKZyzlRKfQu4QdeWNGRTNolGcaFtj6Ea-k0pT33Whpjh0fOkCEnrZKh7f6KhvZkZeKRBfFE9IS9gBlXoZeYzSF_U2Z7XZlRU4S4e2h3xoEcqNWBQxXxAuLFDGr9l-bnLS07a91apDZoHKMEDLszPjmy5ZuaHo0ZXN2c",
+            "width" : 3036
+         },
+         {
+            "height" : 2322,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111635734749500667189\"\u003eCara Weston\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDxkZHYdoSLdNzlEmLb1i2aTYXwKwYzQgSfjZrDne7WKvUsj--k2Lu5ViDlRsKm4wAncsD_K0TkSPCDds9q5GI-l_ZFel_BNUk6hUcE3MdbTFBMHJJJGdu2weIMsBz7evLG9-in_PqP7x0Vbn5yaWv6oFqiHLopDZFoqNEp73O37-Y5o",
+            "width" : 4128
+         },
+         {
+            "height" : 2252,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108859462697954435775\"\u003eRodolfo Martinez\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDzc8_gwR3Gd72q7pmbkgJXrc9TZATBCidvpFmcy4uW6XeEKn9MXrFiSmlUGWxZAIecRhB0rpYP9DvQXbcIXLvCvbP017MSOghkjTNaadQaHVQKA7sYf93D82OIkyHZ8tb1jQQdJAFyIQ31hY7ahGXdn7oE5hptmJgkepW8pgcuojgqf",
+            "width" : 4000
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116847956979424622033\"\u003eCam Pascale\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDwBWHRbleOci5PD6pjbRsYkaaBpsDCYA9o28QD2e_0cY0lkficvEsRL2-w7_eFBMpQgveNTQ_Piwul7aCk4uH8mjTe1fQkJFlIe5r1wYoN0wo5wZFdQhqeelW31tXC4E2r2R-7UTCuwbNXhnOuQXB9d8_e9FKEbNi890GaRh_VIUlnu",
+            "width" : 1836
+         },
+         {
+            "height" : 2322,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111635734749500667189\"\u003eCara Weston\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDztSiN3i05GmRy_gCCvXBeJywXnHNX2cbIVCZNmN75kytflc007oN6BhZeiY0CWpWjssG1ui1h-PEs_9uTxDdqoHOwoJu_5WQ0LE8V0V05FKxDn8YVblevDVfD6RotYLXKV94fJVY2Urd-GuTl-r3YYrxkGSFxQPU42Hwyl1UVtlJkz",
+            "width" : 4128
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115488761126542723129\"\u003eGearoid Griffin\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDyKtCZ6YsBVxVQQIu-i5zuESSYmB5VnHOGeiFDNwi25FdTMRKJSXYfssU5xZXMzX15ith41BmY3Hd4wMwhWCHArlCkQ_LNk4bdar3fLRYv0fyoO11rW9uj0-UJC_i5oraRvZi730grig9yyshyAIlGL91PQrtnx6oEbRg2qSw9XfxKj",
+            "width" : 3120
+         },
+         {
+            "height" : 4656,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100263974556484143018\"\u003eMichelle Cole\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDyb0yxJWFSZLe862AZvU-CuU5kQWBfg5uwILFugprolByEkBdTESVJBVTw-93dHwhm0tFMzD6mus3YaGTpBeUoSXtvwF4b8d2og-Qs57-RDP9y1i4VWdtKCf2vlxg08DLSHracA-HqEmfkw0UxkPr9gr3MhWEDyzU0fayX5_qWWA99y",
+            "width" : 2620
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107846586433677381717\"\u003ewilliam clausen\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDyHwFqLNg8SF0omRa7MMEZ4R1SLG7J9-7eS_f-4PjK-ZuTN4IEkNcphwUKqWufXinOGWdxmPRPSmIMo3PvlE7FWS4vPXy8h4-CB8KGmnJfqcy0VecGg42W_6OreNPCAtwaqA1Osq8_TNQGy5b83YQgR7JNevx2Frj-zhSGTrBqDS0Kl",
+            "width" : 4032
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112466328084032108071\"\u003eJuvencio Reyna\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDw9wOGjKPKdEJJntggOSNZZfQ3aedhiHLcJ2M0cgzYytLVk5JhufrNLp-3LpWNbRrWnain2pGO6nHM5l5mAXUTRyMX-WqIrATubA7EaUtT03qWJAr3KvCJcYpSNBCB1YR0ZVPedMFYrvI4PnWPzM6lXQmpp10b9ZKuf1NLBNVvEjThW",
+            "width" : 2448
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109831974768238066173\"\u003eFr. George Awad\u003c/a\u003e"
+            ],
+            "photo_reference" : "AW30NDzNDoB_PNsqXQI1-kD3nz-yCCHlplfAT91e0--BwoOLIr9gQoZLrxcAIZmGLAgAilfzQCJH0Gb4eAdZU9d0i5Ry7qSqO4epV46z-L1tqKssxCPMAqIJaHzw1hEsCTWMF8AtzPf0h-kOxDIygYHqSd95KYj490uECKDjpcJy4gqO2GyR",
+            "width" : 5312
+         }
+      ],
+      "place_id" : "ChIJ2Vb0Z9pU2YARij7i4I-e9u8",
+      "plus_code" : {
+         "compound_code" : "PRXQ+MW San Diego, CA, USA",
+         "global_code" : "8544PRXQ+MW"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJ2Vb0Z9pU2YARij7i4I-e9u8",
+      "reviews" : [
+         {
+            "author_name" : "John C",
+            "author_url" : "https://www.google.com/maps/contrib/118289438768647482754/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AD5-WCkYA-Xz2fFBtuJRijRXj-PFtE_-GyOtM3_AbFFGIA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "5 years ago",
+            "text" : "Trendy upscale mini mall area.  Good spacious safe well lit underground parking, free for 2 hrs, with easy access via elevator to the street and their complex of boutique stores.  24 hour fitness is here along with a nice large selection of other stores and shops.  Very Good theater as well.\nBright and clean  good signs, and good experience.\nOverall very good and worth a visit to explore Hillcrest area. Recommended.",
+            "time" : 1509723828,
+            "translated" : false
+         },
+         {
+            "author_name" : "Angel Jordan",
+            "author_url" : "https://www.google.com/maps/contrib/116908690631173156591/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AEdFTp5qpQ95dPO9RSdYQK7xoTaE9iwFbD-nEzX3Kiey=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 4,
+            "relative_time_description" : "5 months ago",
+            "text" : "I like how they have different stores and they are not like all the others.",
+            "time" : 1655330698,
+            "translated" : false
+         },
+         {
+            "author_name" : "Barney McComas",
+            "author_url" : "https://www.google.com/maps/contrib/110458058177257056122/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AD5-WCmoFFYwTWE8UHEMp4Y6hn8ai--xhylvxky66KXOhjk=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 3,
+            "relative_time_description" : "4 years ago",
+            "text" : "Good space, lots of natural light throughout, okay number and variety of weightlifting, cardio and stretching equipment. However, some of the older machines are not well maintained, the free weights are frequently not re-racked, and it's not very clean. The staff are mostly friendly and helpful, and there's a fair number and variety of free classes like yoga, step, etc. 2 hours free parking in the garage with validation is nice but, for me, not sufficient for a decent workout and hour-long class.",
+            "time" : 1534883879,
+            "translated" : false
+         },
+         {
+            "author_name" : "Victoria Thompson",
+            "author_url" : "https://www.google.com/maps/contrib/114733589690543159584/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AEdFTp7kwNjR8U-q3ZqihUGK2YYc0YkjdBs1eaWFEBY=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 3,
+            "relative_time_description" : "a month ago",
+            "text" : "Not much there anymore. I only go there for PT",
+            "time" : 1666198965,
+            "translated" : false
+         },
+         {
+            "author_name" : "Michael M.",
+            "author_url" : "https://www.google.com/maps/contrib/115785521387782002237/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AD5-WCldx-UcOSv2SPdn7MLavGFIgP-M2C0V42ZXoTOHaA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "Good selection of shops, restaurants and of course Trader Joe's. Parking is always an issue whether it's above or underground parking....",
+            "time" : 1633285366,
+            "translated" : false
+         }
+      ],
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17291182160126033546",
+      "user_ratings_total" : 392,
+      "utc_offset" : -480,
+      "vicinity" : "3955 Fifth Avenue, San Diego",
+      "website" : "http://www.villagehillcrest.com/",
+      "wheelchair_accessible_entrance" : true
+   },
+   "status" : "OK"
+}
