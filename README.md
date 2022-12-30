@@ -5,8 +5,6 @@ The goal of the project "The Travel Scheduler" is to predict the list of locatio
 The user enters the name of the city as well as the locations of interest in that city. Once all the tourist places within the city are fetched, the places are filtered and predicted based on the reviews and ratings. The application will generate a CSV file with the list of locations and the scheduled time.
 
 
-Recorded Presentation Video link(requires IU account to access):https://indiana-my.sharepoint.com/:v:/g/personal/avbhamid_iu_edu/EQveli1QFZxGqHnOO2xIgY0BFWvQDzCvvGASDQgjWU_cNA?e=xVUXXN
-
 **Initial Setup:**
 
 This project requires some API calls for which we require to generate API keys.Please follow this link for creating the 
@@ -98,9 +96,4 @@ Place detail API - https://developers.google.com/maps/documentation/places/web-s
 Distance Matrix API - https://developers.google.com/maps/documentation/distance-matrix/overview
 
 Geocode API - https://developers.google.com/maps/documentation/geocoding/start
-
-
-
-
-**Note:** API Key is required to run the code , If any issue occured while generation of API key please contact svuddant@iu.edu for the key information.
 
